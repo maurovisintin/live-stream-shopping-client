@@ -1,12 +1,8 @@
 # React native live stream RTMP Example
 
-An example live stream rtmp application using React native
+An example live stream shopping rtmp application using React native.
 
-## Demo v2
-
-**Note: Here is demo for version 2.0**
-
-<img src="demo/1.png" width="280" title="hover text">
+Fork from : sieuhuflit/react-native-live-stream-rtmp-example 
 
 ## Demo v1
 
