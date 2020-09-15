@@ -4,9 +4,9 @@ An example live stream shopping rtmp application using React native.
 
 Fork from : sieuhuflit/react-native-live-stream-rtmp-example 
 
-## Demo v1
+## Demo
 
-**Note: Here is demo for version 1.0**
+**Note: Product listing is not implemented*
 
 | Streamer                                                                                                                  | Viewer                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
