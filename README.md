@@ -59,7 +59,7 @@ yarn run ios
 ### Android
 
 ```bash
-yarn run run-android
+yarn run android
 ```
 
 ## Common problem
