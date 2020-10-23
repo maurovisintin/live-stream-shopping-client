@@ -5489,10 +5489,10 @@ react-native-iphone-x-helper@^1.2.0, react-native-iphone-x-helper@^1.2.1:
   resolved "https://registry.yarnpkg.com/react-native-iphone-x-helper/-/react-native-iphone-x-helper-1.2.1.tgz#645e2ffbbb49e80844bb4cbbe34a126fda1e6772"
   integrity sha512-/VbpIEp8tSNNHIvstuA3Swx610whci1Zpc9mqNkqn14DkMbw+ORviln2u0XyHG1kPvvwTNGZY6QpeFwxYaSdbQ==
 
-react-native-nodemediaclient@^0.1.9:
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/react-native-nodemediaclient/-/react-native-nodemediaclient-0.1.10.tgz#df80c07d359ee5554261e8024b2827edfed8a6a8"
-  integrity sha512-VGwgLcOQzNsEAgItpOm3cTbgtyavaDs9gfq8O47akNGXYPhEURx0mb5J1vJZTueIK9mwY4JtMLkFu7z7rn5XVg==
+react-native-nodemediaclient@0.2.13:
+  version "0.2.13"
+  resolved "https://registry.yarnpkg.com/react-native-nodemediaclient/-/react-native-nodemediaclient-0.2.13.tgz#39bb09cea8aca83c48b5e7031126ee42da9df1ba"
+  integrity sha512-JL/p5Xm9KiEo4CJQ+Vk1RnzDpm2A+fxPzEYmVIPVdKfVKnGI97sY9GozL/3tqEdLNYPk1GAqnOA5t9YjMOsrvA==
 
 react-native-reanimated@^1.8.0:
   version "1.8.0"

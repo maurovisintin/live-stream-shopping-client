@@ -1,5 +1,5 @@
 {
-  "name": "Live Stream Shopping Client",
+  "name": "baleno",
   "version": "0.0.2",
   "private": true,
   "scripts": {
@@ -21,7 +21,7 @@
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-gesture-handler": "^1.6.1",
-    "react-native-nodemediaclient": "^0.1.9",
+    "react-native-nodemediaclient": "0.2.13",
     "react-native-reanimated": "^1.8.0",
     "react-native-safe-area-context": "^0.7.3",
     "react-native-screens": "^2.5.0",

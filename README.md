@@ -55,6 +55,9 @@ yarn run ios
 ### Android
 
 ```bash
+
+export export ANDROID_SDK_ROOT=/Users/{{your user}}/Library/Android/sdk
+
 yarn run android
 ```
 
