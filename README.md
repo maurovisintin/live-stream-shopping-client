@@ -56,7 +56,9 @@ yarn run ios
 
 ```bash
 
-export export ANDROID_SDK_ROOT=/Users/{{your user}}/Library/Android/sdk
+export ANDROID_SDK_ROOT=/Users/{{your user}}/Library/Android/sdk
+
+adb reverse tcp:3333 tcp:3333
 
 yarn run android
 ```
